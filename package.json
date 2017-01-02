@@ -1,0 +1,21 @@
+{
+"author":"Sean Conrad",
+"name":"mongotest_seanconrad",
+"version":"0.1.0",
+"description":"Mongo test for mbta app",
+"main":"mongo_test",
+"repository":{
+"type":"git",
+"url":"https://github.com/spconrad/mongotest"
+},
+"keywords":[
+"mongo",
+"mongodb"
+],
+"dependencies":{
+},
+"engines":{
+"node":"*",
+"require":"*"
+}
+}
